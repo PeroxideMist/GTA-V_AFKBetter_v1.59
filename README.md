@@ -8,7 +8,7 @@ How to use:
 4. Go to the Deity of the Sun slot machine
 5. Set your bet to 2,500 chips
 6. Open GTAHaX
-7. Set your settings to this: https://i.imgur.com/MDv61J4.png
+7. Set your settings to this: https://i.imgur.com/MDv61J4.png   String: $MPPLY_CASINO_CHIPS_WON_GD    Value: 0
 8. Run the bot and press F1 to start the farming
 9. When you have enough chips, press F2 to stop the bot
 
